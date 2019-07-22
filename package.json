@@ -84,7 +84,8 @@
     "antd": "^3.20.5",
     "customize-cra": "^0.4.1",
     "less": "^3.9.0",
-    "less-loader": "^5.0.0"
+    "less-loader": "^5.0.0",
+    "react-scripts": "^3.0.1"
   },
   "jest": {
     "collectCoverageFrom": [
